@@ -1,0 +1,16 @@
+{
+  "reason": "Only experiment storage retention and terminal cleanup were added; QA behavior unchanged.",
+  "previous_adapter_sha256": {
+    "data.py": "e58779ccb1ed47b4630f86d3ff19ffa2a1814770de4f0ab4a0555e24faed0cea",
+    "runner.py": "20e95ee44b8e1df4c656113de9a6e922a70e1511834728e23c299bf6dc328cc7",
+    "scoring.py": "30f639dfcddf815dbbac3947ff102cd3ddd6771e951140d79cd3fad36987bc3c",
+    "cli.py": "63ae09fc2d6f9fe06e93edaf32ce320b703d840725d6d21ea700c238ca804678"
+  },
+  "current_adapter_sha256": {
+    "data.py": "e58779ccb1ed47b4630f86d3ff19ffa2a1814770de4f0ab4a0555e24faed0cea",
+    "runner.py": "4a6c3e473e971f08dec12de8c8d81d930d00c62a6963b86aece9ee0cbc7176ec",
+    "scoring.py": "30f639dfcddf815dbbac3947ff102cd3ddd6771e951140d79cd3fad36987bc3c",
+    "cli.py": "014834d1cd386f8c97a853f2d3e492aff81d4cd3e2bc4c2db8c8161cdcbf0f2b",
+    "retention.py": "111abdb7dd449612cb9fa9199c1178af3e73b9a1f93f0acc7998aebba44ec4f0"
+  }
+}

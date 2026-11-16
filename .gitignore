@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+sessions/
+.streamlit/secrets.toml
+benchmarks/LongMemEval/
+benchmarks/runs/
+/.idea/
